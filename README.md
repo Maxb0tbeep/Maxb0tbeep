@@ -4,7 +4,7 @@
 
 🐧 i use arch linux
 
-🖥️ intel core i5-10400F and a Radeon RX 3700 XT 
+🖥️ intel core i5-10400F and a Radeon RX 6700 XT 
 
 ⌨️ Nuphy Halo75
 
