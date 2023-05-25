@@ -7,7 +7,6 @@ body{
     background-color: black;
     color:white;
     font-family: 'Roboto', sans-serif;
-    text-align: center;
     background-color: #1a202e;
     opacity: 1;
     background-image: radial-gradient(#304158 0.9px, #1a202e 0.9px);
@@ -18,4 +17,47 @@ h1{
     color:white;
     font-size:4rem;
     font-family: "EP-Boxi", monospace;
+}
+
+p{
+    font-size:18px;
+}
+
+.desc{
+    font-size: 20px;
+    width: 10%;
+    margin: 0 auto;
+}
+
+.bio{
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.bio-text{
+    display:block;
+    width: 42.5%;
+    margin: 0 auto;
+    background-color: #1a202e;
+    border-radius: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 10px;
+}
+
+#rounded{
+    background-color: #262e41;
+    border-radius: 15px;
+    padding: 10px 0px 10px 0px;
+}
+
+img{
+    border-radius: 15px;
+    display:block;
+    padding-left: 10px;
+}
+
+#alt-color{
+    color:#914cff
 }
