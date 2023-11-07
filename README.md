@@ -1,12 +1,14 @@
 # Hi, i'm max.
 
-😺 i like cats and programming
+😺 I like cats and programming
 
-🐧 i use arch linux with hyprland
+🐧 I use Arch Linux with Hyprland (PC) and KDE Plasma (Laptop)
 
-🖥️ intel core i5-10400F and a Radeon RX 6700 XT 
+🖥️ PC: Intel Core i5-10400F, Radeon RX 6700 XT 
 
-💾 i'm familiar with c++, java, unity/c#, nodejs, python, and html/css
+💻 Laptop: Thinkpad T480, Intel Core i5-8250U
+
+💾 I'm familiar with C++, Java, Unity/C#, NodeJS, Python, and HTML/CSS
 
 🌐 @Maxb0tbeep on basically everything, @max:polygonal.place on matrix
 
