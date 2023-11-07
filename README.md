@@ -2,12 +2,13 @@
 
 😺 i like cats and programming
 
-🐧 i use arch linux
+🐧 i use arch linux with hyprland
 
 🖥️ intel core i5-10400F and a Radeon RX 6700 XT 
 
-⌨️ Nuphy Halo75
+💾 i'm familiar with c++, java, unity/c#, nodejs, python, and html/css
 
-💾 i'm familiar with unity/c#, nodejs, python, and html/css
+🌐 @Maxb0tbeep on basically everything, @max:polygonal.place on matrix
 
-https://launchpad-games.com <- cool website :)
+🪙 XMR: 4BKSrAJq6W5jF5LbCpktjjNevBXi4ocW9Ns9UitmokrhNMQdArdAtUUM5o7kDnLapw6kTREKcSTSXcfmzmiYGs1aM7hTqt9
+
