@@ -10,7 +10,7 @@
 
 💾 I'm familiar with C++, Java, Unity/C#, NodeJS, Python, and HTML/CSS
 
-🌐 @Maxb0tbeep on basically everything, @max:polygonal.place on matrix
+🌐 @Maxb0tbeep on basically everything, @maxb0tbeep:envs.net on matrix
 
 🪙 XMR: 4BKSrAJq6W5jF5LbCpktjjNevBXi4ocW9Ns9UitmokrhNMQdArdAtUUM5o7kDnLapw6kTREKcSTSXcfmzmiYGs1aM7hTqt9
 
